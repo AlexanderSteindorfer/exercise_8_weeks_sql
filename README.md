@@ -1,1 +1,0 @@
-# exercise_8_weeks_sql
